@@ -16,6 +16,8 @@ invited participants conversing with 11 different chatbots through textual excha
 The original authors of this dataset asked Amazon Mechanical Turk workers 
 to rate all 2200 interactions on multiple dialog level dimensions.
 
+The full description of the track challenge can be [found here](https://drive.google.com/file/d/1oVDMg-6HffMpkSXWylafTvVI1pDuMuqw/view).
+
 ## Dataset Sampling
 We selected all dialogs of length 8 to 9 turns from each of the 11 chatbots.
 
