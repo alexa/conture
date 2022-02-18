@@ -81,7 +81,7 @@ overall impression: turn level annotation scale (0, 1, 2)
 |             | Count |
 | ----------- | ----------- |
 | # of conversations        | 119       |
-| # of turns                | 1006      |
+| # of turns                | 1066      |
 | % of turns with score 0   | 30.7%     |
 | % of turns with score 1   | 22.2%     |
 | % of turns with score 2   | 47.1%       |
