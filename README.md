@@ -110,11 +110,21 @@ We see that the annotations have moderate correlation with all the parameters.
 If you use this dataset in your work please cite the following papers
 
 ```
-@article{ghazarian2021user,
-  title={User Response and Sentiment Prediction for Automatic Dialogue Evaluation},
-  author={Ghazarian, Sarik and Hedayatnia, Behnam and Papangelis, Alexandros and Liu, Yang and Hakkani-Tur, Dilek},
-  journal={arXiv preprint arXiv:2111.08808},
-  year={2021}
+@inproceedings{ghazarian-etal-2022-wrong,
+    title = "What is wrong with you?: Leveraging User Sentiment for Automatic Dialog Evaluation",
+    author = "Ghazarian, Sarik  and
+      Hedayatnia, Behnam  and
+      Papangelis, Alexandros  and
+      Liu, Yang  and
+      Hakkani-Tur, Dilek",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-acl.331",
+    pages = "4194--4204",
+    abstract = "Accurate automatic evaluation metrics for open-domain dialogs are in high demand. Existing model-based metrics for system response evaluation are trained on human annotated data, which is cumbersome to collect. In this work, we propose to use information that can be automatically extracted from the next user utterance, such as its sentiment or whether the user explicitly ends the conversation, as a proxy to measure the quality of the previous system response. This allows us to train on a massive set of dialogs with weak supervision, without requiring manual system turn quality annotations. Experiments show that our model is comparable to models trained on human annotated data. Furthermore, our model generalizes across both spoken and written open-domain dialog corpora collected from real and paid users.",
 }
 ```
 
